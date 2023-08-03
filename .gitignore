@@ -166,3 +166,6 @@ cython_debug/
 .LSOverride
 ## Icon must end with  \r
 Icon?
+
+# etc
+#.history

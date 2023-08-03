@@ -15,4 +15,9 @@ echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDgq+pHCxO9IbndGBIyRkAOSSlw4h4/z8diWG
 
 # Script
 ```
+./install_basic.sh
+./install_cuda.sh
+./install_docker.sh
+./install_python.sh
+
 ```
